@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**Mridul-420/Mridul-420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋
+<h2> I'm Saif Mahmud</h2>
 
-Here are some ideas to get you started:
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 👨🏻• 💻 About Me </h3>
+ 
+:heart: Programming |
+
+I am a First Year Computer Engineering Student at College DIU.
+- 🌱 I’m currently learning  C program |  
+- 💬 Ask me about anything. I will try to help you as much as I can.
+- ⚡ Quote: There is always time. You just have to find it.
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- ⚡ Fun fact: I love to play pool and snooker 🎱.
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; C | 
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap |
+<br>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mridul-420&&show_icons=true&theme=radical&line_height=27&v=5" alt="Aryan's GitHub Stats" /> 
+</p>
+
+<h4 align="center">Top languages :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul-420&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
